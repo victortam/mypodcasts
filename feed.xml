@@ -2,20 +2,20 @@
 <rss version="2.0" 
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Your Podcast Title</title>
-    <link>https://yourusername.github.io/my-podcast/</link>
-    <description>A cool podcast about X</description>
+    <title>Victor Tam’s Podcast</title>
+    <link>https://victortam.github.io/mypodcasts/</link>
+    <description>A podcast about technology and ideas shaping the world.</description>
     <language>en-us</language>
-    <itunes:author>Your Name</itunes:author>
+    <itunes:author>Victor Tam</itunes:author>
     <itunes:explicit>no</itunes:explicit>
 
     <item>
-      <title>Episode 1 - Getting Started</title>
-      <enclosure url="https://yourusername.github.io/my-podcast/episodes/ep1.mp3" 
-                 length="12345678" type="audio/mpeg" />
-      <guid>ep1</guid>
+      <title>Episode 1 – The Global AI Revolution</title>
+      <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/The-Global-Artificial-Intelligence-Revolution.mp3" 
+                 length="11800000" type="audio/mpeg" />
+      <guid>episode-1-ai</guid>
       <pubDate>Sat, 29 Jun 2024 12:00:00 GMT</pubDate>
-      <description>Intro to my podcast series.</description>
+      <description>An introduction to the global landscape of AI, its trends and implications.</description>
     </item>
 
   </channel>
