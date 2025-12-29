@@ -26,6 +26,14 @@
        <pubDate>Tue, 19 Aug 2025 17:00:00 GMT</pubDate>
        <description>Joel Smyth breaks down high-value QBs for your 2025 fantasy draft, highlighting rushing upside and deep sleeper picks.</description>
     </item>
-
+    <item>
+       <title>The Atlantic: How Warren Buffett Did It</title>
+       <enclosure url=https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/How+Warren+Buffett+Did+It_The+Atlantic.mp3" 
+                  length="31850086" type="audio/mpeg" />
+       <guid>episode-warren-buffett-atlantic</guid>
+       <pubDate>Thu, 18 Dec 2025 17:00:00 GMT</pubDate>
+       <description>The most successful investor of all time is retiring. Here’s what made him an American role model.</description>
+    </item>
+       
   </channel>
 </rss>
