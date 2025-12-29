@@ -28,7 +28,7 @@
     </item>
     <item>
        <title>The Atlantic: How Warren Buffett Did It</title>
-       <enclosure url=https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/How+Warren+Buffett+Did+It_The+Atlantic.mp3" 
+       <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/How+Warren+Buffett+Did+It_The+Atlantic.mp3" 
                   length="31850086" type="audio/mpeg" />
        <guid>episode-warren-buffett-atlantic</guid>
        <pubDate>Thu, 18 Dec 2025 17:00:00 GMT</pubDate>
