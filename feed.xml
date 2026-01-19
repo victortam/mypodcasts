@@ -34,6 +34,13 @@
        <pubDate>Thu, 18 Dec 2025 17:00:00 GMT</pubDate>
        <description>The most successful investor of all time is retiring. Here’s what made him an American role model.</description>
     </item>
-       
+    <item>
+      <title>Letter 236 – Josh Kushner and Alyson Shontell</title>
+      <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/20260119183631__9__Letter__236__Josh_Kushner_and_Alyson_Shontell_.mp3"
+                 length="24000000" type="audio/mpeg" />
+      <guid>episode-letter-236-kushner-shontell</guid>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+      <description>Discussion with Josh Kushner and Fortune CEO Alyson Shontell about building, investing, and navigating modern business. Originally published via A Letter A Day.</description>
+    </item>
   </channel>
 </rss>
