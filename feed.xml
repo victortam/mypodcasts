@@ -42,5 +42,14 @@
       <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
       <description>Discussion with Josh Kushner and Fortune CEO Alyson Shontell about building, investing, and navigating modern business. Originally published via A Letter A Day.</description>
     </item>
+    <item>
+      <title>#171 – Why E-Commerce Finally Looks Stable Again</title>
+      <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/20260119185735__9___171_____Why_E-Commerce_Finally_Looks_Stable_A.mp3"
+                 length="13000000" type="audio/mpeg" />
+      <guid>episode-171-ecommerce-stable</guid>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+      <description>Q3 2025 earnings point to an e-commerce sector regaining its footing, with disciplined growth, resilient demand, improving profitability, and early signs of AI shaping both discovery and supply. Consumer behavior remains value-oriented and bifurcated, while platforms like Amazon, Shopify, eBay, and The RealReal lean into focused execution and sober investment as the industry shifts from defense to offense heading into 2026.</description>
+      <itunes:duration>00:11:22</itunes:duration>
+    </item>
   </channel>
 </rss>
