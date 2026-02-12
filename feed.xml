@@ -51,5 +51,13 @@
       <description>Q3 2025 earnings point to an e-commerce sector regaining its footing, with disciplined growth, resilient demand, improving profitability, and early signs of AI shaping both discovery and supply. Consumer behavior remains value-oriented and bifurcated, while platforms like Amazon, Shopify, eBay, and The RealReal lean into focused execution and sober investment as the industry shifts from defense to offense heading into 2026.</description>
       <itunes:duration>00:11:22</itunes:duration>
     </item>
+    <item>
+      <title>The SaaS Bloodbath: Opportunities and Perils for Investors</title>
+      <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/YOUR_FILE_NAME_HERE.mp3"
+                 length="YOUR_FILE_SIZE_IN_BYTES" type="audio/mpeg" />
+      <guid>episode-saas-bloodbath-zhang</guid>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+      <description>Software stocks have dropped sharply in early 2026, with many names down roughly 20% year-to-date and valuation multiples collapsing. This episode examines whether the sell-off signals structural disruption or market overreaction, introducing the “artificial limiters” framework to distinguish fragile SaaS models from defensible platforms. It explores why mission-critical software may prove resilient, where public-market mispricings may exist, and why venture investors face greater risks in an AI-driven regime shift.</description>
+    </item>
   </channel>
 </rss>
