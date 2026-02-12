@@ -53,11 +53,11 @@
     </item>
     <item>
       <title>The SaaS Bloodbath: Opportunities and Perils for Investors</title>
-      <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/YOUR_FILE_NAME_HERE.mp3"
-                 length="YOUR_FILE_SIZE_IN_BYTES" type="audio/mpeg" />
-      <guid>episode-saas-bloodbath-zhang</guid>
+      <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/20260211225826__11__The_SaaS_Bloodbath__the_Opportunities_and_Per.mp3"
+                 length="11435478" type="audio/mpeg" />
+      <guid>episode-2026-02-11-saas-bloodbath</guid>
       <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
-      <description>Software stocks have dropped sharply in early 2026, with many names down roughly 20% year-to-date and valuation multiples collapsing. This episode examines whether the sell-off signals structural disruption or market overreaction, introducing the “artificial limiters” framework to distinguish fragile SaaS models from defensible platforms. It explores why mission-critical software may prove resilient, where public-market mispricings may exist, and why venture investors face greater risks in an AI-driven regime shift.</description>
+      <description>Software stocks have fallen sharply in early 2026, with valuation multiples compressing across the sector. This episode examines whether the sell-off reflects structural disruption from AI or a market overreaction, introduces the “artificial limiters” framework for identifying defensible platforms, and explores why mission-critical SaaS may prove more resilient than feared. It also contrasts public-market opportunity with rising risk in venture investing during this AI transition.</description>
     </item>
   </channel>
 </rss>
