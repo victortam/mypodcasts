@@ -59,5 +59,13 @@
       <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
       <description>Software stocks have fallen sharply in early 2026, with valuation multiples compressing across the sector. This episode examines whether the sell-off reflects structural disruption from AI or a market overreaction, introduces the “artificial limiters” framework for identifying defensible platforms, and explores why mission-critical SaaS may prove more resilient than feared. It also contrasts public-market opportunity with rising risk in venture investing during this AI transition.</description>
     </item>
+    <item>
+      <title>Takaichi, Tanking, and Legalization Lessons</title>
+      <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/20260216175349_Takaichi__Tanking_and_Legalization_Lessons_____Sha.mp3"
+                 length="26634790" type="audio/mpeg" />
+      <guid>episode-2026-02-16-takaichi-legalization</guid>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
+      <description>An analysis of political strategy and policy tradeoffs using recent debates around leadership contests, economic policy positioning, and legalization politics. The episode explores how incentives, signaling, and institutional constraints shape real-world decision making.</description>
+    </item>
   </channel>
 </rss>
