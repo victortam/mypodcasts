@@ -67,5 +67,21 @@
       <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
       <description>An analysis of political strategy and policy tradeoffs using recent debates around leadership contests, economic policy positioning, and legalization politics. The episode explores how incentives, signaling, and institutional constraints shape real-world decision making.</description>
     </item>
+    <item>
+      <title>The New York Times: Legalized Marijuana Needs Stronger Regulation</title>
+      <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/article-2e726ce5-0c4f-55de-b9b6-ae112d854a88-job-1770662946576.mp3"
+                 length="4823449" type="audio/mpeg" />
+      <guid>episode-2026-02-09-nyt-marijuana-regulation</guid>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+      <description>A New York Times editorial argues that marijuana legalization brought benefits such as reduced criminal penalties but also significant public health and safety concerns. Rather than returning to prohibition, it calls for tighter regulation including taxes, limits on potency, and stronger oversight of industry marketing.</description>
+    </item>
+    <item>
+      <title>The New York Times: The Challenges of Legalized Marijuana Laws</title>
+      <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/default.mp3_ywr3ahjkcgo_486ba9ac38e7637f0262215c54869724_24272302.mp3"
+                 length="24222106" type="audio/mpeg" />
+      <guid>episode-2026-02-10-nyt-marijuana-laws</guid>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+      <description>This editorial examines how legalization policies have evolved across the United States and the unintended consequences that followed. It discusses rising use, health effects, and the need for policymakers to adjust regulatory frameworks to balance personal freedom with public health protections.</description>
+    </item>
   </channel>
 </rss>
