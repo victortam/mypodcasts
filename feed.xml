@@ -83,7 +83,7 @@
       <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
       <description>This editorial examines how legalization policies have evolved across the United States and the unintended consequences that followed. It discusses rising use, health effects, and the need for policymakers to adjust regulatory frameworks to balance personal freedom with public health protections.</description>
     </item>
-    <lastBuildDate>Sat, 30 May 2026 19:27:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 23:35:38 GMT</lastBuildDate>
   <item>
     <title>Audio Pending</title>
     <guid isPermaLink="false">reads-to-podcast:f2ba2d5c-000c-4dd7-84c2-a3f1d8c1deae</guid>
@@ -95,6 +95,30 @@
     <guid isPermaLink="false">reads-to-podcast:fe4bef10-e5f1-4835-86d4-3985e3ccd338</guid>
     <pubDate>Sat, 30 May 2026 19:27:11 GMT</pubDate>
     <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/how-spencer-pratt-happens-sharp-text-by-andrew-sharp-fe4bef10-e5f1-4835-86d4-3985e3ccd338.mp3" length="14386176" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>(8) Letter 229 Graham Weaver (2023) - by Kevin Gee</title>
+    <guid isPermaLink="false">reads-to-podcast:2ae2d462-a4e8-47c5-920b-5cbeed9005c6</guid>
+    <pubDate>Sat, 30 May 2026 23:35:32 GMT</pubDate>
+    <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/8-letter-229-graham-weaver-2023-by-kevin-gee-2ae2d462-a4e8-47c5-920b-5cbeed9005c6.mp3" length="30472704" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>Why Management Advice Breaks for Founders</title>
+    <guid isPermaLink="false">reads-to-podcast:23dcac9b-2ec9-42d8-817f-1d93e2695ece</guid>
+    <pubDate>Sat, 30 May 2026 23:35:35 GMT</pubDate>
+    <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/why-management-advice-breaks-for-founders-23dcac9b-2ec9-42d8-817f-1d93e2695ece.mp3" length="7204608" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>Letter 154 Josh Kushner and Kareem Zaki (2023)</title>
+    <guid isPermaLink="false">reads-to-podcast:a12767bb-08ba-4e78-8a1b-0be41cb1bf82</guid>
+    <pubDate>Sat, 30 May 2026 23:35:36 GMT</pubDate>
+    <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/letter-154-josh-kushner-and-kareem-zaki-2023-a12767bb-08ba-4e78-8a1b-0be41cb1bf82.mp3" length="26981376" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>Dan Benton&apos;s Rules for Technology Stock Investing, 2026 Edition</title>
+    <guid isPermaLink="false">reads-to-podcast:0084f2f7-f4b3-4b36-bab8-aafbc7f31451</guid>
+    <pubDate>Sat, 30 May 2026 23:35:38 GMT</pubDate>
+    <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/dan-benton-s-rules-for-technology-stock-investing-2026-editi-0084f2f7-f4b3-4b36-bab8-aafbc7f31451.mp3" length="8409216" type="audio/mpeg" />
   </item>
 </channel>
 </rss>
