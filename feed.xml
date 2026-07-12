@@ -83,7 +83,7 @@
       <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
       <description>This editorial examines how legalization policies have evolved across the United States and the unintended consequences that followed. It discusses rising use, health effects, and the need for policymakers to adjust regulatory frameworks to balance personal freedom with public health protections.</description>
     </item>
-    <lastBuildDate>Sat, 30 May 2026 23:35:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 23:43:51 GMT</lastBuildDate>
   <item>
     <title>Audio Pending</title>
     <guid isPermaLink="false">reads-to-podcast:f2ba2d5c-000c-4dd7-84c2-a3f1d8c1deae</guid>
@@ -119,6 +119,14 @@
     <guid isPermaLink="false">reads-to-podcast:0084f2f7-f4b3-4b36-bab8-aafbc7f31451</guid>
     <pubDate>Sat, 30 May 2026 23:35:38 GMT</pubDate>
     <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/dan-benton-s-rules-for-technology-stock-investing-2026-editi-0084f2f7-f4b3-4b36-bab8-aafbc7f31451.mp3" length="8409216" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>Invisible Companies</title>
+    <guid isPermaLink="false">reads-to-podcast:manual:colossus-invisible-companies</guid>
+    <pubDate>Sun, 12 Jul 2026 23:43:51 GMT</pubDate>
+    <link>https://colossus.com/article/invisible-companies/</link>
+    <description>Colossus Magazine essay by Jay Barney, Haiyang Zhang, and Jerry Neumann on why overlooked businesses can become durable sources of excess returns.</description>
+    <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/invisible-companies-colossus.mp3" length="28873455" type="audio/mpeg" />
   </item>
 </channel>
 </rss>
