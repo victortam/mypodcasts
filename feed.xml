@@ -83,7 +83,7 @@
       <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
       <description>This editorial examines how legalization policies have evolved across the United States and the unintended consequences that followed. It discusses rising use, health effects, and the need for policymakers to adjust regulatory frameworks to balance personal freedom with public health protections.</description>
     </item>
-    <lastBuildDate>Sun, 12 Jul 2026 23:43:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 15:15:36 GMT</lastBuildDate>
   <item>
     <title>Audio Pending</title>
     <guid isPermaLink="false">reads-to-podcast:f2ba2d5c-000c-4dd7-84c2-a3f1d8c1deae</guid>
@@ -127,6 +127,14 @@
     <link>https://colossus.com/article/invisible-companies/</link>
     <description>Colossus Magazine essay by Jay Barney, Haiyang Zhang, and Jerry Neumann on why overlooked businesses can become durable sources of excess returns.</description>
     <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/invisible-companies-colossus.mp3" length="28873455" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>Online Insanity and Its Counterpoint</title>
+    <guid isPermaLink="false">reads-to-podcast:b53dd2fd-01d3-4153-b830-921d0c010da6</guid>
+    <pubDate>Mon, 13 Jul 2026 15:15:36 GMT</pubDate>
+    <author>Andrew Sharp</author>
+    <link>https://sharptext.net/2026/online-insanity-and-its-counterpoint/</link>
+    <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/online-insanity-and-its-counterpoint-b53dd2fd-01d3-4153-b830-921d0c010da6.mp3" length="12213120" type="audio/mpeg" />
   </item>
 </channel>
 </rss>
