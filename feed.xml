@@ -83,7 +83,7 @@
       <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
       <description>This editorial examines how legalization policies have evolved across the United States and the unintended consequences that followed. It discusses rising use, health effects, and the need for policymakers to adjust regulatory frameworks to balance personal freedom with public health protections.</description>
     </item>
-    <lastBuildDate>Mon, 13 Jul 2026 15:15:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 13:17:57 GMT</lastBuildDate>
   <item>
     <title>Audio Pending</title>
     <guid isPermaLink="false">reads-to-podcast:f2ba2d5c-000c-4dd7-84c2-a3f1d8c1deae</guid>
@@ -135,6 +135,22 @@
     <author>Andrew Sharp</author>
     <link>https://sharptext.net/2026/online-insanity-and-its-counterpoint/</link>
     <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/online-insanity-and-its-counterpoint-b53dd2fd-01d3-4153-b830-921d0c010da6.mp3" length="12213120" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>Two More Cents on the NBA’s Second Apron Era</title>
+    <guid isPermaLink="false">reads-to-podcast:534b3b94-829c-44f9-8441-f5df84d68c37</guid>
+    <pubDate>Wed, 29 Jul 2026 13:17:47 GMT</pubDate>
+    <author>Andrew Sharp</author>
+    <link>https://sharptext.net/2026/two-more-cents-on-the-nbas-second-apron-era/</link>
+    <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/two-more-cents-on-the-nba-s-second-apron-era-534b3b94-829c-44f9-8441-f5df84d68c37.mp3" length="19791744" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>Is Netflix Washed Now?</title>
+    <guid isPermaLink="false">reads-to-podcast:795da89c-9e10-4196-927f-6585fa6f0a47</guid>
+    <pubDate>Wed, 29 Jul 2026 13:17:57 GMT</pubDate>
+    <author>Andrew Sharp</author>
+    <link>https://sharptext.net/2026/is-netflix-washed-now/</link>
+    <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/is-netflix-washed-now-795da89c-9e10-4196-927f-6585fa6f0a47.mp3" length="15548544" type="audio/mpeg" />
   </item>
 </channel>
 </rss>
