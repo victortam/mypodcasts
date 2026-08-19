@@ -83,7 +83,7 @@
       <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
       <description>This editorial examines how legalization policies have evolved across the United States and the unintended consequences that followed. It discusses rising use, health effects, and the need for policymakers to adjust regulatory frameworks to balance personal freedom with public health protections.</description>
     </item>
-    <lastBuildDate>Wed, 29 Jul 2026 13:17:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 03:20:35 GMT</lastBuildDate>
   <item>
     <title>Audio Pending</title>
     <guid isPermaLink="false">reads-to-podcast:f2ba2d5c-000c-4dd7-84c2-a3f1d8c1deae</guid>
@@ -151,6 +151,22 @@
     <author>Andrew Sharp</author>
     <link>https://sharptext.net/2026/is-netflix-washed-now/</link>
     <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/is-netflix-washed-now-795da89c-9e10-4196-927f-6585fa6f0a47.mp3" length="15548544" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>New York and the Power of the Network</title>
+    <guid isPermaLink="false">reads-to-podcast:ee0ade28-bcf7-4da1-9ee8-6876f1c14750</guid>
+    <pubDate>Wed, 19 Aug 2026 03:20:26 GMT</pubDate>
+    <author>Andrew Sharp</author>
+    <link>https://sharptext.net/2026/new-york-and-the-power-of-the-network/</link>
+    <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/new-york-and-the-power-of-the-network-ee0ade28-bcf7-4da1-9ee8-6876f1c14750.mp3" length="17570304" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>How to Get Rich in America</title>
+    <guid isPermaLink="false">reads-to-podcast:d7916362-a0b4-4f6b-9409-39a2746575fc</guid>
+    <pubDate>Wed, 19 Aug 2026 03:20:35 GMT</pubDate>
+    <author>Kyla Scanlon</author>
+    <link>https://kyla.substack.com/p/how-to-get-rich-in-america</link>
+    <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/how-to-get-rich-in-america-d7916362-a0b4-4f6b-9409-39a2746575fc.mp3" length="27974411" type="audio/mpeg" />
   </item>
 </channel>
 </rss>
