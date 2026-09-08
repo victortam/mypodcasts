@@ -83,7 +83,7 @@
       <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
       <description>This editorial examines how legalization policies have evolved across the United States and the unintended consequences that followed. It discusses rising use, health effects, and the need for policymakers to adjust regulatory frameworks to balance personal freedom with public health protections.</description>
     </item>
-    <lastBuildDate>Wed, 19 Aug 2026 03:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 13:28:31 GMT</lastBuildDate>
   <item>
     <title>Audio Pending</title>
     <guid isPermaLink="false">reads-to-podcast:f2ba2d5c-000c-4dd7-84c2-a3f1d8c1deae</guid>
@@ -167,6 +167,12 @@
     <author>Kyla Scanlon</author>
     <link>https://kyla.substack.com/p/how-to-get-rich-in-america</link>
     <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/how-to-get-rich-in-america-d7916362-a0b4-4f6b-9409-39a2746575fc.mp3" length="27974411" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>Why Coaching Systems Beat Raw Stats</title>
+    <guid isPermaLink="false">reads-to-podcast:0c927999-7118-4737-8417-2370fae6596c</guid>
+    <pubDate>Tue, 08 Sep 2026 13:28:31 GMT</pubDate>
+    <enclosure url="https://my-podcast-audio.s3.us-east-2.amazonaws.com/episodes/why-coaching-systems-beat-raw-stats-0c927999-7118-4737-8417-2370fae6596c.mp3" length="5642020" type="audio/mpeg" />
   </item>
 </channel>
 </rss>
